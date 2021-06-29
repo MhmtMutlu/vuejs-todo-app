@@ -1,24 +1,8 @@
-# todo-app
+# To Do App with Vue
 
-## Project setup
-```
-npm install
-```
+I have coded a todo app with Vuejs to make practices about my learning outcomes.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Screenshot
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![Proje Resmi](public/screenshot.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
